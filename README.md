@@ -8,4 +8,4 @@ In addition to tutoring, here is a list of coding Help I used
 3. determining order of conditional clauses - [WHERE Date >=2010-01-01 ](https://www.tutorialspoint.com/sqlite/sqlite_order_by.htm)https://www.tutorialspoint.com/sqlite/sqlite_order_by.htm and https://www.sqlitetutorial.net/sqlite-order-by/
 4. how to sort the dataframe by column - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html
 5. sqlalchemy documentation for station analysis section - https://docs.sqlalchemy.org/en/14/orm/tutorial.html#counting, https://docs.sqlalchemy.org/en/14/orm/tutorial.html#common-filter-operators
-6. 
+6. histogram making support - https://www.youtube.com/watch?v=4SL89I9VS44 
