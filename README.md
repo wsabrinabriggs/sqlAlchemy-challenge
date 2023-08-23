@@ -2,7 +2,7 @@
 
 Hello and thank you for reading.
 
-This challenge was not fun and only reinforced what I already know: that I'm not yet understanding how to query using objects and the vocabularymassociated with querying and ORM.
+This challenge was not fun and only reinforced what I already know: that I'm not yet understanding how to query using objects and the vocabulary associated with querying and ORM.
 
 In addition to tutoring, here is a list of coding Help I used
 1. converting object into a Pandas df - https://stackoverflow.com/questions/75309237/read-sql-query-throws-optionengine-object-has-no-attribute-execute-with
