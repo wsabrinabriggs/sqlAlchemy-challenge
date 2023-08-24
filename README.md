@@ -12,3 +12,4 @@ In addition to tutoring, here is a list of coding Help I used
 5. sqlalchemy documentation for station analysis section - https://docs.sqlalchemy.org/en/14/orm/tutorial.html#counting, https://docs.sqlalchemy.org/en/14/orm/tutorial.html#common-filter-operators
 6. histogram making support - https://www.youtube.com/watch?v=4SL89I9VS44
 7. The code for the both graphs and most of the station analysis section were code from multiple tutors
+8. turn a list into a dictionary - https://www.atatus.com/blog/python-converting-lsts-to-dictionaries/#:~:text=Converting%20a%20list%20to%20a%20dictionary%20can%20be%20done%20by,using%20the%20dict()%20function.
